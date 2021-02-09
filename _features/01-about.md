@@ -1,6 +1,5 @@
 ---
-id: ABOUT
-name: ABOUT
+ref: ABOUT
 heading: ABOUT
 subheading: ""
 image: "http://placehold.it/500x500"

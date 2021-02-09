@@ -6,7 +6,12 @@ sass:
   sass_dir: /assets/_sass
   style: :compressed
 collections:
-  - features
+  features:
+    directory: _features
+  team_investigators:
+    directory: _team_investigators
+  team_members:
+    directory: _team_investigators
 exclude:
   - Gemfile
   - Gemfile.lock

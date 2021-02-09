@@ -1,8 +1,7 @@
 ---
-id: FUNDING
-name: FUNDING
+ref: FUNDING
 heading: FUNDING
-subheading:
+subheading: ""
 image: "http://placehold.it/500x500"
 ---
 
